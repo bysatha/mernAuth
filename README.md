@@ -1,2 +1,2 @@
-# mernBase3
- The officially succeeded MERN base of the Coduza-Bases project
+# mernAuth - mernBase3
+ The officially succeeded MERN base authentication of the Coduza-Bases project
